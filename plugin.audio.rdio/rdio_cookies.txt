@@ -1,0 +1,3 @@
+#LWP-Cookies-2.0
+Set-Cookie3: _a=eyJkYXRlX2Nvb2tpZWQiOiAxMzkyNzgxMDMzLCAicmVmIjogIiIsICJyZXEiOiAiaHR0cHM6Ly93d3cucmRpby5jb20vYWNjb3VudC9zaWduaW4vIiwgInR5cGUiOiAib3JnYW5pYyIsICJ1YSI6ICJkZXNrdG9wIiwgIm11aWQiOiAiMTRkMmIxNTA4ZWNhMzUwNjU5ZTJhMGYwNzY2NzE0YjRkZTgxZjc1YyJ9; path="/"; domain=".rdio.com"; path_spec; domain_dot; expires="2014-08-19 19:37:10Z"; version=0
+Set-Cookie3: r=".eJyrVorPyU9OzElVslJQSs1T0lFQigexjQ1NTc0sjcxA_FIg39DCCChkYAnilwH5BrUAvXEOGg.9G6g7Q_SSvlPMzhL81TvUMKUJx0"; path="/"; domain=".rdio.com"; path_spec; domain_dot; expires="2015-02-19 01:25:57Z"; version=0
